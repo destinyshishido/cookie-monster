@@ -1,0 +1,54 @@
+.nav-bar{
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	list-style-type: none;
+	padding: 20px;
+	background-color: grey;
+}
+
+#CompanyName{
+	text-align: center;
+	font-family: 'Satisfy', cursive;
+	font-size: 20px;
+
+}
+
+#top{
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#middle{
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#bottom{
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#bottom ul{
+	list-style-type: none;
+}
+
+a{
+	text-decoration-style: none;
+	text-decoration-color: white;
+}
+
+.button{
+	font-size: 30px;
+	font-family: 'Cinzel', serif;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	border: 1.5px solid grey;
+	background-color: maroon;
+	padding: 15px 32px;
+}

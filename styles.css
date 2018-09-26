@@ -7,6 +7,7 @@
 	justify-content: space-around;
 	list-style-type: none;
 	padding: 20px;
+	padding-top: 40px;
 	background-color: grey;
 }
 
@@ -51,4 +52,8 @@ a{
 	border: 1.5px solid grey;
 	background-color: maroon;
 	padding: 15px 32px;
+}
+
+body{
+	background-color: #efd7d7;
 }
